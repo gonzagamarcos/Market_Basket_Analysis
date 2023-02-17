@@ -1,9 +1,9 @@
 # Market_Basket_Analysis
 
- Autor: Marcos Vinícius Gonzaga
- Projeto: Market Basket Analysis - Online Retail Data Set
- Dataset: Online Retail Data Set
- Link: https://archive.ics.uci.edu/ml/datasets/online+retail
+Autor: Marcos Vinícius Gonzaga
+Projeto: Market Basket Analysis - Online Retail Data Set
+Dataset: Online Retail Data Set
+Link: https://archive.ics.uci.edu/ml/datasets/online+retail
 
 Objetivo:  
 Parte 1: Analisar os padrões de co-ocorrência entre os produtos comprados pelos clientes. Identificando quais produtos são frequentemente comprados juntos em uma mesma transação.
